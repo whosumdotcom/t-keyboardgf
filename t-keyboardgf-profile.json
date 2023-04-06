@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T14:11:05Z",
+  "IdClaims": [
+    {
+      "Claim": "t:keyboardgf"
+    },
+    {
+      "Claim": "mdon:@keyboardgf@mastodon.au"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ff59eb13d9b2a84b5313bc82",
+    "Timestamp": "2023-04-06T14:14:16Z",
+    "Signature": "0a5f9ae6f81cc96b4a227018516b3e378d5ec0bc65ae882013433a5d504c2e05fd0894dc44c6281da4c2afbc096bb3d5268f9e60b1291d29e5fce0113648b904a06c15fffce53bf3fd13c9e3f917ae8cdff4f933f36208f50bd934783698462467b907c5ee2cc5d8d0a854f6d7c73ac59f3b00b76a3e63283ff87ec28427dbd1c27113386d5e6eb40ecd17d6e1d22bafd53e242279abcb413a8d2d80fc175a0f7f69e5f7ac55fadb8f068e92d957094a7bde28c9816d641e92608473dbf5acf426d0b4271380bf942f49f6e0e15b95fb6d97960891ac0421e75ab6a0e7be7a56764a6b97d84db147b000494e772b60f9ac0cfc7df0248beb29b105f6cdb55501"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "e4bce72b909c6ab885a4d6ba65baa4b47e821ebae5eab3a30bc8fd5b37b0711e",
+  "ContentToHash": "v1|mdon:@keyboardgf@mastodon.au,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:keyboardgf|2023-04-06T14:11:05Z"
+}
